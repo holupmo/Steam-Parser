@@ -1,0 +1,79 @@
+[
+  {
+    "app_id": 264710,
+    "name": "Subnautica",
+    "discount": 75,
+    "price": 450,
+    "url": "https://store.steampowered.com/app/264710/"
+  },
+  {
+    "app_id": 361420,
+    "name": "ASTRONEER",
+    "discount": 75,
+    "price": 275,
+    "url": "https://store.steampowered.com/app/361420/"
+  },
+  {
+    "app_id": 305620,
+    "name": "The Long Dark",
+    "discount": 90,
+    "price": 129,
+    "url": "https://store.steampowered.com/app/305620/"
+  },
+  {
+    "app_id": 848450,
+    "name": "Subnautica: Below Zero",
+    "discount": 75,
+    "price": 450,
+    "url": "https://store.steampowered.com/app/848450/"
+  },
+  {
+    "app_id": 597180,
+    "name": "Old World",
+    "discount": 90,
+    "price": 14990,
+    "url": "https://store.steampowered.com/app/597180/"
+  },
+  {
+    "app_id": 1139900,
+    "name": "Ghostrunner",
+    "discount": 75,
+    "price": 374,
+    "url": "https://store.steampowered.com/app/1139900/"
+  },
+  {
+    "app_id": 613100,
+    "name": "Хаус Флиппер",
+    "discount": 75,
+    "price": 220,
+    "url": "https://store.steampowered.com/app/613100/"
+  },
+  {
+    "app_id": 768200,
+    "name": "Smalland: Survive the Wilds",
+    "discount": 70,
+    "price": 360,
+    "url": "https://store.steampowered.com/app/768200/"
+  },
+  {
+    "app_id": 374040,
+    "name": "Portal Knights",
+    "discount": 85,
+    "price": 62,
+    "url": "https://store.steampowered.com/app/374040/"
+  },
+  {
+    "app_id": 40800,
+    "name": "Super Meat Boy",
+    "discount": 92,
+    "price": 23,
+    "url": "https://store.steampowered.com/app/40800/"
+  },
+  {
+    "app_id": 232090,
+    "name": "Killing Floor 2",
+    "discount": 90,
+    "price": 89,
+    "url": "https://store.steampowered.com/app/232090/"
+  }
+]
